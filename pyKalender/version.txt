@@ -1,0 +1,28 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(0, 0, 5, 0),
+    prodvers=(0, 0, 5, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+    ),
+  kids=[
+    StringFileInfo(
+      [
+      StringTable(
+        u'040904B0',
+        [StringStruct(u'CompanyName', u'(C)2024, Imam Kahraman'),
+        StringStruct(u'FileDescription', u'calendar APP'),
+        StringStruct(u'FileVersion', u'0.0.5.0'),
+        StringStruct(u'InternalName', u'calendar'),
+        StringStruct(u'LegalCopyright', u'\xa9 2024 Imam Kahraman. All rights reserved.'),
+        StringStruct(u'OriginalFilename', u'calendar.Exe'),
+        StringStruct(u'ProductName', u'calendar APP'),
+        StringStruct(u'ProductVersion', u'0.0.5.0')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)

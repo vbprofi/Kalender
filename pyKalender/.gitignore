@@ -1,0 +1,9 @@
+# folders
+.py/*
+_test/*
+__pycache__/*
+data/*
+build/*
+dist/*
+
+
